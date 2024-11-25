@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280983243771",
+    "project_id": "i-finget",
+    "storage_bucket": "i-finget.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280983243771:android:08272d713c3c165fa1595e",
+        "android_client_info": {
+          "package_name": "com.example.ifingetproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280983243771-608c8gm4s3h88re5lsa2s317ht2khijd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifingetproject",
+            "certificate_hash": "90eaae8498984bd173fd9d1db69e0c5fe13d6843"
+          }
+        },
+        {
+          "client_id": "280983243771-okghgeoop12gsgg93uarnth359bgu8e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MH8ph8EfVUXX9YxgVR047Dc0abutpZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280983243771-okghgeoop12gsgg93uarnth359bgu8e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

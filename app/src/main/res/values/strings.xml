@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">I Finget</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_portfolio">Portfolio</string>
+    <string name="income_analysis_title">Income Analysis</string>
+    <string name="expense_analysis_title">Expense Analysis</string>
+    <string name="goals_title">Goals</string>
+    <string name="transaction_title">Transactions</string>
+
+    <string name="default_web_client_id" translatable="false">280983243771-okghgeoop12gsgg93uarnth359bgu8e5.apps.googleusercontent.com</string>
+    <string name="lend_transactions_title">Lend Transactions</string>
+    <string name="borrowed_transactions_title">Borrowed Transactions</string>
+
+    <string-array name="income_sources">
+        <item>Awards</item>
+        <item>Coupons</item>
+        <item>Freelancing</item>
+        <item>Gift</item>
+        <item>Grants</item>
+        <item>Lottery</item>
+        <item>Refunds</item>
+        <item>Rental</item>
+        <item>Salary</item>
+        <item>Sale</item>
+    </string-array>
+
+    <string-array name="wallet_names">
+        <item>Cash</item>
+        <item>Card</item>
+        <item>Bank</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Beauty</item>
+        <item>Electronics</item>
+        <item>Entertainment</item>
+        <item>Fashion</item>
+        <item>Food</item>
+        <item>Groceries</item>
+        <item>Health</item>
+        <item>Home</item>
+        <item>Insurance</item>
+        <item>Shopping</item>
+        <item>Social</item>
+        <item>Sport</item>
+        <item>Tax</item>
+        <item>Telephone</item>
+        <item>Transport</item>
+        <item>Utilities</item>
+    </string-array>
+
+    <string-array name="time_periods">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>3 Months</item>
+        <item>6 Months</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
