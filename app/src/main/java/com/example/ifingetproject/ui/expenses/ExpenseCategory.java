@@ -1,3 +1,7 @@
+/*
+    Name: BHARGAV KUMAR AATHAVA
+ */
+
 package com.example.ifingetproject.ui.expenses;
 
 public class ExpenseCategory {
